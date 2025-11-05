@@ -5,9 +5,9 @@ It was developed as part of a Pattern Recognition homework assignment.
 
 The project includes three parts:
 ```
-Part 1 – Logistic Regression
-Part 2 – SVM Classification
-Part 3 – CNN Classification
+Part 1 - Logistic Regression
+Part 2 - SVM Classification
+Part 3 - CNN Classification
 ```
 
 ---
@@ -34,14 +34,14 @@ Pattern-Recognition-LRnNN/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/<your-username>/Pattern-Recognition-LRnNN.git
+git clone https://github.com/aryaa-deshpande/Pattern-Recognition-LRnNN.git
 cd Pattern-Recognition-LRnNN
 ```
 
 ### 2. Create a virtual environment 
 ```
 python3 -m venv myenv
-source venv/bin/activate   
+source myenv/bin/activate   
 
 ```
 
@@ -55,9 +55,9 @@ pip install -r requirements.txt
 ## How to Run
 	1.	Open the DeshpandeAryaa_hw2.ipynb notebook in Jupyter or VS Code.
 	2.	Run the cells in order:
-        •	Part 1 → Logistic Regression
-        •	Part 2 → SVM Classification
-        •	Part 3 → CNN Classification
+        •	Part 1 -> Logistic Regression
+        •	Part 2 -> SVM Classification
+        •	Part 3 -> CNN Classification
 	3.	Each section trains a different model and reports:
         •	Validation and test accuracies
         •	Confusion matrix (printed and visualized)
